@@ -1,1 +1,1 @@
-CBM Calculator
+CBM Reservoir Calculator
